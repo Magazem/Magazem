@@ -33,6 +33,7 @@ Peer-to-peer engineering school. No lectures, no teachers — you learn by build
 [![mini-talk](https://img.shields.io/badge/mini--talk-UNIX%20signal%20IPC-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/mini-talk)
 [![philosophers](https://img.shields.io/badge/philosophers-multithreading%20%26%20mutexes-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/philosophers_42)
 [![minishell](https://img.shields.io/badge/minishell-custom%20UNIX%20shell-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/minishell)
+[![Cub3D](https://img.shields.io/badge/Cub3D-raycasting%20engine%20%28collab%29-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/tanguyors/Cub3D)
 
 </div>
 
