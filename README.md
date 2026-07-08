@@ -5,7 +5,7 @@
 **Software developer & automation builder based in Bettembourg, Luxembourg**
 
 [![GitHub followers](https://img.shields.io/github/followers/Magazem?style=flat-square&color=161b22&labelColor=161b22&logo=github&logoColor=white)](https://github.com/Magazem)
-[![Company](https://img.shields.io/badge/Eng%20Nei%20Schaff-Bettembourg%2C%20Luxembourg-161b22?style=flat-square&labelColor=161b22&color=161b22&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyeiIvPjwvc3ZnPg==)](https://github.com/Magazem)
+[![Company](https://img.shields.io/badge/Eng%20Nei%20Schaff-Bettembourg%2C%20Luxembourg-161b22?style=flat-square&labelColor=161b22)](https://github.com/Magazem)
 
 </div>
 
@@ -16,6 +16,25 @@
 I'm a developer with a background from **42 Luxembourg** (2024–2025) and a focus on building tools that actually solve problems. I work at **Eng Nei Schaff** in Luxembourg, where I handle internal tooling, automation pipelines, and client-facing web projects.
 
 I care about software that ships cleanly — AI-assisted development, practical automation, and systems that replace real manual work rather than just demoing well.
+
+---
+
+## 🎓 42 Luxembourg — 2024–2025
+
+Peer-to-peer engineering school. No lectures, no teachers — you learn by building and by helping others build. Every project below is a solution I wrote from scratch to a specific challenge set by the cursus.
+
+<div align="center">
+
+[![libft](https://img.shields.io/badge/libft-C%20standard%20library%20from%20scratch-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/libft)
+[![ft_printf](https://img.shields.io/badge/ft__printf-custom%20printf%20implementation-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/ft_printf)
+[![get_next_line](https://img.shields.io/badge/get__next__line-buffered%20file%20reader-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/get_next_line)
+[![push_swap](https://img.shields.io/badge/push__swap-sorting%20algorithm-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/push_swap)
+[![FDF-42](https://img.shields.io/badge/FDF-3D%20wireframe%20renderer-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/FDF-42)
+[![mini-talk](https://img.shields.io/badge/mini--talk-UNIX%20signal%20IPC-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/mini-talk)
+[![philosophers](https://img.shields.io/badge/philosophers-multithreading%20%26%20mutexes-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/philosophers_42)
+[![minishell](https://img.shields.io/badge/minishell-custom%20UNIX%20shell-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)](https://github.com/Magazem/minishell)
+
+</div>
 
 ---
 
@@ -48,17 +67,10 @@ I care about software that ships cleanly — AI-assisted development, practical 
 ## What I'm building
 
 - 🔧 **Internal tooling** — automation systems that eliminate repetitive manual work at company level
-- 🌐 **Client websites** — self-hosted sites with proper CMS handoff (clients manage their own content)
+- 🌐 **Client websites** — self-hosted sites with proper CMS handoff so clients can manage their own content
 - 🤖 **AI integrations** — Claude, MCP servers, and local models connected to real workflows
 - 👓 **Smart wearables** — lightweight AI inference on edge devices
 - 📚 **Tool reference library** — curated, documented open-source tools for real-world problems
-
----
-
-## Education
-
-🎓 **42 Luxembourg** — 2024–2025  
-Peer-to-peer, project-based engineering program. Systems programming, algorithms, and building under pressure with no lectures and no hand-holding.
 
 ---
 
